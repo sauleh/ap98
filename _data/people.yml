@@ -3,63 +3,20 @@ instructor:
     profile_pic: /_images/profile-photos/sauleh-eetemadi.jpg
 
 teaching_assistants:
-  - name: <a href="https://github.com/ali4heydari">Ali Heydari (Head)</a>
-    profile_pic: /_images/profile-photos/ali-heydari.jpg
+  # - name: Sepehr Hashemi
+  #   profile_pic: /_images/avatar.png
 
-  - name: Sepehr Hashemi
-    profile_pic: /_images/avatar.png
+  # - name: <a href="https://github.com/miladjobs/">Milad Esfandyari</a>
+  #   profile_pic: /_images/profile-photos/milad-esfandiarifar.jpg
 
-  - name: <a href="https://github.com/miladjobs/">Milad Esfandyari</a>
-    profile_pic: /_images/profile-photos/milad-esfandiarifar.jpg
+  # - name: Sara Kodeiri
+  #   profile_pic: /_images/profile-photos/sara-kodeyri.jpg
 
-  - name: <a href="https://github.com/mj-haghighigh">Keyvan Mirshekari</a>
-    profile_pic: /_images/profile-photos/keyvan-mirshekari.jpg
+  # - name: AliReza Moradi
+  #   profile_pic: /_images/profile-photos/alireza-moradi.jpg
 
-  - name: Mobin Daryoush
-    profile_pic: /_images/avatar.png
+  # - name: Pooya Kabiri
+  #   profile_pic: /_images/avatar.png
 
-  - name: <a href="https://github.com/ehsandaramir/">Amir Ehsandar</a>
-    profile_pic: /_images/profile-photos/amir-ehsandaar.jpg
-
-  - name: Sara Kodeiri
-    profile_pic: /_images/profile-photos/sara-kodeyri.jpg
-
-  - name: AliReza Moradi
-    profile_pic: /_images/profile-photos/alireza-moradi.jpg
-
-  - name: Pooya Kabiri
-    profile_pic: /_images/avatar.png
-
-  - name: Mobina Kashanian
-    profile_pic: /_images/profile-photos/mobina-kashanian.jpg
-
-  - name: Mohammad Abdollahpour
-    profile_pic: /_images/avatar.png
-
-  - name: Hossein Sadatipour
-    profile_pic: /_images/avatar.png
-
-  - name: Sadra Moghaddam
-    profile_pic: /_images/avatar.png
-
-  - name: Yegane MorshedZadeh
-    profile_pic: /_images/avatar.png
-
-  - name: Danial Ghaemi
-    profile_pic: /_images/avatar.png
-
-  - name: Mahnaaz Haghghani
-    profile_pic: /_images/avatar.png
-
-  - name: Ghazale Mahmoodi
-    profile_pic: /_images/avatar.png
-
-  - name: Mahdi Moghaddami
-    profile_pic: /_images/profile-photos/mahdi-moghaddami.jpg
-
-  - name: <a href="http://Github.com/LaMentaTahaei">Mina Tahaei</a>
-    profile_pic: /_images/profile-photos/mina-tahaei.jpg
-
-  - name: Farnaz Niknia
-    profile_pic: /_images/profile-photos/farnaz-niknia.jpg
-
+  # - name: Mohammad Abdollahpour
+  #   profile_pic: /_images/avatar.png
