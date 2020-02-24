@@ -5,6 +5,7 @@ title: Lecture 7 - Value/Reference Type + Objects/Classes in Java
 slides: https://drive.iust.ac.ir/index.php/s/uRSfdTZzjb6XHUa/download?path=%2FSlides&files=S7.pdf
 video: https://drive.iust.ac.ir/index.php/s/uRSfdTZzjb6XHUa/download?path=%2FVideos&files=S7.mp4
 #codes: https://drive.iust.ac.ir/index.php/s/uRSfdTZzjb6XHUa/download?path=%2FCodes&files=S6.zip
-#tldr: We started the class by explaining statically and dynamically allocated arrays. We then introduced static vs. dynamic (growing) arrays in all 4 languages. We introduced the Java ArrayList<>, C++ std::vector<>, Python list [] and C# List<>. We then introduced the C++ class definition syntax in .hpp files in addition to an example where a class has an object member variable.
+tldr: We started by explaining how value types and reference types differ by examples in C# and C++. Next we developed an object oriented approach to a Student-Course-Instructor problem. The wo
+notetaker: امیرحسین سماوات
 #thumbnail: /static_files/presentations/lec.jpg
 ---

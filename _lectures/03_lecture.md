@@ -6,5 +6,6 @@ slides: https://drive.iust.ac.ir/index.php/s/uRSfdTZzjb6XHUa/download?path=%2FSl
 video: https://drive.iust.ac.ir/index.php/s/uRSfdTZzjb6XHUa/download?path=%2FVideos&files=S3.mp4
 codes: https://drive.iust.ac.ir/index.php/s/uRSfdTZzjb6XHUa/download?path=%2FCodes&files=S3.zip
 tldr: We continued parameter passing discussion by examining the memory in C, brief look at how the STL vector class is used and saw ref/out parameters in C# in addition to Java.
+notetaker: نیوشا یقینی
 #thumbnail: /static_files/presentations/lec.jpg
 ---
