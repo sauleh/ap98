@@ -47,6 +47,14 @@
       {{ include.lecture.codes | prepend: site.baseurl }} 
     {% endif %}">codes</a>]
     {% endif %}
+    {% if include.lecture.codes2 %}
+    [<a title="Download codes (zip)" href="
+    {% if include.lecture.codes2 contains '://' %}
+      {{ include.lecture.codes2 }} 
+    {% else %}
+      {{ include.lecture.codes2 | prepend: site.baseurl }} 
+    {% endif %}">codes2</a>]
+    {% endif %}
     {% if include.lecture.data %}
     [<a title="Download data (zip)" href="
     {% if include.lecture.data contains '://' %}
