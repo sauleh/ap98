@@ -6,7 +6,7 @@ permalink: /assignments/
 
 You can download the assignments here (in PDF format). Also check out assignment's pages for any additional info.
 
-The latest Code Review guide can be found [here](/ap97/static_files/AP97982-CodeReviewGuide.V.1.3.pdf).
+The latest Code Review guide can be found [here](/ap98/static_files/CodeReviewGuide.pdf).
 
 <ul id="archive">
 {% for asg in site.assignments reversed %}
