@@ -6,7 +6,8 @@ permalink: /lectures/
 
 You can download the lectures here (in PDF format). I will try to upload lectures prior to their corresponding classes.
 
-# 🆕
+<h1>🆕</h1>
+
 For students who have [signed up](https://www.signupgenius.com/go/20f0b4da9a72fa1fa7-advanced) to take notes, please use [this](https://www.overleaf.com/latex/templates/iust-student-course-note-template/pgcyqhkkxcqr) LaTeX template in overleaf for the notes. You can either edit in overleaf or download MikTeX and TeXStudio on your computer. I recommend the latter. Please make sure you edit what is needed in main.tex and session.tex. Please remove any image/codefile/... you are not using. When you are done, please share your notes through an overleaf project, or send me a zipped version of the TeX files along with the PDF.
 
 
