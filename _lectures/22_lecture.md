@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2020-04-27T8:00:00+4:30
-title: Lecture 19 - .NET Interface IEnumerable, IDispoable
+title: Lecture 20 - Linked-List Memory Manager and IEnumerable
 slides: https://drive.iust.ac.ir/index.php/s/uRSfdTZzjb6XHUa/download?path=%2FSlides&files=S20.pdf
 video: https://drive.iust.ac.ir/index.php/s/uRSfdTZzjb6XHUa/download?path=%2FVideos&files=S20.mp4
 codes: https://drive.iust.ac.ir/index.php/s/uRSfdTZzjb6XHUa/download?path=%2FCodes&files=S20.zip
