@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2020-05-6T8:00:00+4:30
+date: 2020-04-22T8:00:00+4:30
 title: Lab 10 - Blazor - Part 1
 #slides: https://drive.iust.ac.ir/index.php/s/uRSfdTZzjb6XHUa/download?path=%2FSlides&files=S26.pdf
 video: https://drive.iust.ac.ir/index.php/s/uRSfdTZzjb6XHUa/download?path=%2FVideos&files=lab10.mp4
