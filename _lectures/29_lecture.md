@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2020-05-18T8:00:00+4:30
+date: 2020-05-23T8:00:00+4:30
 title: Lecture 27 - Inheritance, Polymorphism, Abstract/ Sealed
 slides: https://drive.iust.ac.ir/index.php/s/uRSfdTZzjb6XHUa/download?path=%2FSlides&files=S27.pdf
 video: https://drive.iust.ac.ir/index.php/s/uRSfdTZzjb6XHUa/download?path=%2FVideos&files=S27.mp4
