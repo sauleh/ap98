@@ -3,8 +3,35 @@ instructor:
     profile_pic: /_images/profile-photos/sauleh-eetemadi.jpg
 
 teaching_assistants:
-  # - name: Sepehr Hashemi
-  #   profile_pic: /_images/avatar.png
+  - name: Omid Mirzajani
+    profile_pic: /_images/mirzajani.jpg
+
+  - name: Mohammad M. Abdollahpour
+    profile_pic: /_images/avatar.png
+
+  - name: Shaghayegh Mobasher
+    profile_pic: /_images/avatar.png
+
+  - name: Ghazal ZamaniNejad
+    profile_pic: /_images/zamani.jpg
+
+  - name: Mostafa Rostamkhani
+    profile_pic: /_images/rostamkhani.jpg
+
+  - name: Negar Zeynolabedin
+    profile_pic: /_images/zeynolabedin.jpg
+
+  - name: Shorab Namazi
+    profile_pic: /_images/namazi.jpg
+
+  - name: Hadi Sheikhi
+    profile_pic: /_images/sheikhi.jpg
+
+  - name: Zahra Hosseini
+    profile_pic: /_images/hosseini.jpg
+
+  - name: Armin Gholampoor
+    profile_pic: /_images/gholampoor.png
 
   # - name: <a href="https://github.com/miladjobs/">Milad Esfandyari</a>
   #   profile_pic: /_images/profile-photos/milad-esfandiarifar.jpg
